@@ -1,0 +1,11 @@
+Nom : Rana Sib
+
+Établissement : École Nationale Polytechnique d'Oran (ENPO)
+
+Département : Génie des Systèmes
+
+Spécialité : Réseaux et Télécommunications
+
+Rôle : Membre de l'équipe
+
+Contribution : Participation au travail collaboratif avec Git et GitHub, gestion des fichiers, synchronisation du dépôt et suivi des modifications.
